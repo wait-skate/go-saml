@@ -21,7 +21,7 @@ import (
 	"github.com/beevik/etree"
 	dsig "github.com/russellhaering/goxmldsig"
 
-	"github.com/crewjam/saml/testsaml"
+	"github.com/wait-skate/go-saml/testsaml"
 )
 
 type ServiceProviderTest struct {
