@@ -1,4 +1,4 @@
-module github.com/crewjam/saml
+module github.com/wait-skate/go-saml
 
 go 1.22
 
